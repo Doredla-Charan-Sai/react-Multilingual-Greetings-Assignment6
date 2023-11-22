@@ -1,0 +1,22 @@
+.btn {
+  background-color: transparent;
+  border: 1px solid rgb(243, 48, 168);
+  border-radius: 30px;
+  height: 30px;
+  width: 120px;
+  font-family: 'Roboto';
+  color: rgb(243, 48, 168);
+  font-size: 15px;
+  cursor: pointer;
+}
+.active-btn {
+  cursor: pointer;
+  background-color: rgb(243, 48, 168);
+  border: none;
+  border-radius: 30px;
+  height: 30px;
+  width: 120px;
+  font-family: 'Roboto';
+  color: white;
+  font-size: 15px;
+}
